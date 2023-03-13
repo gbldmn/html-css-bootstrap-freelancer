@@ -1,14 +1,18 @@
-nav {
-    background-color: rgb(44, 43, 43) !important; 
+
+.bg-body-tertiary {
+    background-color: #2C3E50!important; 
+}
+.container-fluid a {
+    color: white;
 }
 
 .navbar-nav {
-    margin-left: 590px    
+    margin-left: 590px;    
 }    
         
     
 .xtx {
-    background-color: rgb(60, 136, 60);
+    background-color: #26BD9C;
     text-align: center;
 }
 .riga {
@@ -16,9 +20,11 @@ nav {
     width: 50px;
     background-color: white;
     display: inline-block;
+   
 }
 .i {
     color: white;
+    
 }
 .one ul li {
     display: inline-block;
@@ -31,5 +37,43 @@ nav {
     padding: 1rem;
 }
 .one h1 {
+    color: white;
+}
+.back .img-fluid{
+    margin-bottom: 5px;
+    border-radius: 10px;
+    
+}
+.riga-2 {
+    height: 3px;
+    width: 50px;
+    background-color: black;
+    display: inline-block;
+    margin-bottom: 12px;
+}
+.center i {
+    margin-bottom: 20px;
+}
+.center {
+    text-align: center;
+}
+.center h4 {
+    margin-top: 12px;
+}
+p {
+    text-align: initial;
+}
+.das {
+    width: 300px;
+    
+}
+.flex {
+    justify-content:center;
+}
+.top {
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+.xtx h4 {
     color: white;
 }

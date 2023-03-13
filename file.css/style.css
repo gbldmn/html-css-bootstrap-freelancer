@@ -77,3 +77,61 @@ p {
 .xtx h4 {
     color: white;
 }
+.heigth {
+    height: 500px;
+}
+.btn-success {
+    background-color: #26BD9C;
+}
+.txtx {
+    text-align: left;
+}
+.padding {
+    padding: 5rem;
+}
+.margin-top {
+    margin-top: 100px;
+}
+.par {
+    content: '\21E8';
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    border-radius: 50%;
+    border-color: white;
+    border: 2px solid white;
+    font-weight: bold;
+    display: inline-block;
+  }
+.el {
+    background-color: #2C3E50;
+}
+.el p,
+h6 {
+    color: white;
+}
+i {
+    color: white;
+}
+.good {
+    color: black;
+}
+.black {
+    background-color: rgb(38, 37, 37);
+}
+.black p {
+    color: white;
+}
+.flex-2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.height {
+    height: 100px;
+}
+.pul p {
+    margin-left: 160px;
+}

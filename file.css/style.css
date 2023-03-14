@@ -20,6 +20,7 @@
     width: 50px;
     background-color: white;
     display: inline-block;
+    vertical-align: middle;
    
 }
 .i {
@@ -50,6 +51,7 @@
     background-color: black;
     display: inline-block;
     margin-bottom: 12px;
+    vertical-align: middle;
 }
 .center i {
     margin-bottom: 20px;
